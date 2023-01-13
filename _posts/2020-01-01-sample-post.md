@@ -20,4 +20,9 @@ Engies Tech Co., Chongqing, China &nbsp; &nbsp; &nbsp;  Dec 2018 – April 2019
 <br>Branding Consultant (Freelancer) 
 <br>Provided branding consulting and content design. 
 <br>Designed logo and visuals for client.
-
+<br>
+<br>
+Egalitea, Ltd., Boston  &nbsp; &nbsp; &nbsp;   May 2016 – Dec 2016	 
+<br>Web and logo Designer (Freelancer) 
+<br>Designed Website and AWS infrastructure built up. 
+<br>Designed Logo and visualized for client 
