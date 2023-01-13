@@ -1,6 +1,6 @@
 menu:
-- {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+- {name: <strong>'Insight'</strong>, url: '/cv'}
+- {name: <strong>'Contact'</strong>, url: '/contact'}
 
 social:
 - {icon: 'github', link: 'https://github.com/dukerosen'}
