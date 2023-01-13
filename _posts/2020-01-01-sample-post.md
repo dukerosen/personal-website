@@ -17,7 +17,7 @@ RO Skin, New York &nbsp; &nbsp; &nbsp;  Jun 2019 – Dec 2019
 <br>
 <br>
 Engies Tech Co., Chongqing, China &nbsp; &nbsp; &nbsp;  Dec 2018 – April 2019
-<br></em>Branding Consultant (Freelancer)</em>
+<br><em>Branding Consultant (Freelancer)</em>
 <br>Provided branding consulting and content design. 
 <br>Designed logo and visuals for client.
 <br>
